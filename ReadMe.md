@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 My name is Ibrahim,<br> I’m 21 years old, from the city of Aktau. <br>I’m a second-year student at Narxoz University, <br>specializing in Digital Engineering.<br><br>I’ve been programming since 7th grade, <br>and technology has been my passion ever since. <br>Constantly learning and evolving, <br>I strive to create innovative solutions and push my skills to the next level. 🚀💻
+👨🏻‍💻 My name is Ibrahim,<br> I’m 21 years old, from the city of Aktau. <br>I’m a 4 year student at Narxoz University, <br>specializing in Digital Engineering.<br><br>I’ve been programming since 7th grade, <br>and technology has been my passion ever since. <br>Constantly learning and evolving, <br>I strive to create innovative solutions and push my skills to the next level. 🚀💻
 
 
 ## 🌐 Socials:
